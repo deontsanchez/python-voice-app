@@ -77,3 +77,6 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover 
+
+# Project specific
+assets/ 
